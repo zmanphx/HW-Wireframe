@@ -72,30 +72,36 @@ article{
        article h5{ color: #ebebeb;
                    margin: 0 auto;
                     padding-top: 12px;
-                    padding-bottom:0px;
+                    padding-bottom:10px;
                 }
                     
   .h3div{   background: #ebebeb;
-            /*z-index: 10;*/
-               height: 42px;
-               width:93%;
-               margin-left: 12px;
-            /* margin-bottom: 5px; */
-             /*  margin-top: 5px; */
+             margin-top:5px;
+             margin-left: 15px;
+             width: 92%;
+
         }
 
 
     .h3div h3{
-                padding-top: 5px;
-             }
+                padding-top: 10px;
+                margin:0;
+                height: 42px;
+                margin-left: 15px;
+                margin-bottom: 5px; 
+                margin-top:0;
+                width: 92%;
+            
+            }
 
 
 p{  background: #ebebeb;
     height:42px;
-    width:93%;
-    margin-top: 7px;
-    margin-left: 12px;
-    padding-top: 5px;
+    width:92%;
+    /*margin-top: 7px; */
+    margin-left: 15px;
+    padding-top: 10px;
+    margin-top: 10px;
 }
 
  footer{  
